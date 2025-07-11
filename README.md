@@ -6,7 +6,7 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 > All rights reserved ©️
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/93a8d30c-91ba-49c5-8384-ac232f8866cb" />
+  <img src="https://github.com/user-attachments/assets/87887531-8b7a-4273-b0d3-65f68fe9860e" />
 </div>
 
 ---
@@ -27,9 +27,9 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 🏠 Home
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/ee677c33-0056-4f84-812a-a4b0728e7d40" />
-  <img width="220" src="https://github.com/user-attachments/assets/ee2d42a8-c640-4e60-ac92-f81203799a45" />
-  <img width="220" src="https://github.com/user-attachments/assets/9cb8e35c-937d-4f33-b540-2a2a173ede3f" />
+  <img width="220" src="https://github.com/user-attachments/assets/7f74d54b-3d64-4d72-bd21-97a4aa48c7a9" />
+  <img width="220" src="https://github.com/user-attachments/assets/4a765c1e-3189-4516-b797-7410e38a6a8c" />
+  <img width="220" src="https://github.com/user-attachments/assets/ee34ed07-2a46-4a37-8008-b45111f9e2bc" />
 </div>
 
 ---
@@ -37,13 +37,13 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 🗂️ Categories
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/cfab3b40-f475-4aa2-8fdf-e23eab8663a6" />
-  <img width="220" src="https://github.com/user-attachments/assets/438d50ec-cdc0-4398-b619-a87ca349645f" />
-  <img width="220" src="https://github.com/user-attachments/assets/617ab3d4-3eb0-4025-9131-f4f0c880c756" />
-  <img width="220" src="https://github.com/user-attachments/assets/0eeccaaf-6740-4257-9923-d3fba272224e" />
-  <img width="220" src="https://github.com/user-attachments/assets/60d3bea3-f0f2-43c5-9611-61b4e10aa23e" />
-  <img width="220" src="https://github.com/user-attachments/assets/73568ea0-d0ee-48e8-8b30-fc0bc3bcd6b5" />
-  <img width="220" src="https://github.com/user-attachments/assets/63612c5c-0d63-4e80-ba07-cbd3068b06e2" />
+  <img width="220" src="https://github.com/user-attachments/assets/9398306c-0f6a-4dce-b474-e64373539417" />
+  <img width="220" src="https://github.com/user-attachments/assets/d891b1c9-ba79-4505-87ff-19bb75bb3115" />
+  <img width="220" src="https://github.com/user-attachments/assets/3938261e-b4d4-4e2b-9fd1-a94af7cb672f" />
+  <img width="220" src="https://github.com/user-attachments/assets/92a069da-dbb2-4046-b781-58c0979e4269" />
+  <img width="220" src="https://github.com/user-attachments/assets/f169e9e2-4b21-4ff4-a6f0-2543165f552f" />
+  <img width="220" src="https://github.com/user-attachments/assets/c3a69e31-19a8-4d87-a613-df8e8762a580" />
+  <img width="220" src="https://github.com/user-attachments/assets/bb2b5f75-d350-4c24-a352-cc4e1f03784b" />
 </div>
 
 ---
@@ -51,24 +51,23 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 🔍 Search
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/975272b1-1e52-4b1a-b7ee-737f7de20519" />
-  <img width="220" src="https://github.com/user-attachments/assets/17b80803-2c19-46dd-8e5e-9fd7b0b58bdc" />
-  <img width="220" src="https://github.com/user-attachments/assets/4060565d-003c-434a-8c8b-dfa4645df817" />
+  <img width="220" src="https://github.com/user-attachments/assets/f257e42a-f77f-44b7-9085-1ea576c3f5fe" />
+  <img width="220" src="https://github.com/user-attachments/assets/113afbf4-3a6d-4653-82da-4c3478d4b1ad" />
+  <img width="220" src="https://github.com/user-attachments/assets/79378b01-f02a-4196-bced-fdfe046e3f02" />
 </div>
 
 ---
 
 ## 🛍️ Product
-
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/6fcf3fd7-5704-48cf-817e-489d301cba35" />
-  <img width="220" src="https://github.com/user-attachments/assets/2aa2ac8f-caae-4fae-9537-c404d4afbcb2" />
-  <img width="220" src="https://github.com/user-attachments/assets/3edd797f-aac6-4dd8-a2d8-808b7c90cfb0" />
-  <img width="220" src="https://github.com/user-attachments/assets/c190c0e8-398e-49d3-b36e-ab2237d9369c" />
-  <img width="220" src="https://github.com/user-attachments/assets/8df7cd20-c494-415e-8f36-abd5eaca8e7b" />
-  <img width="220" src="https://github.com/user-attachments/assets/3208e060-d582-4b7d-9a5a-14911c63e267" />
-  <img width="220" src="https://github.com/user-attachments/assets/4d7e0578-aa8d-4e1c-9886-4b1c8cc6e6e1" />
-  <img width="220" src="https://github.com/user-attachments/assets/e4e313aa-779f-43c8-af33-ab86b150d165" />
+  <img width="220" src="https://github.com/user-attachments/assets/fc79656b-9c72-46f4-8f56-52197d948214" />
+  <img width="220" src="https://github.com/user-attachments/assets/7d29c28c-4d23-4ef0-afa3-88567b4b2a22" />
+  <img width="220" src="https://github.com/user-attachments/assets/088ce203-67b2-4316-af73-c63271428a2c" />
+  <img width="220" src="https://github.com/user-attachments/assets/d7d6448e-c2f5-43bf-a8fe-f41123bad15d" />
+  <img width="220" src="https://github.com/user-attachments/assets/d007ae50-903e-4616-8779-2218d6d30d14" />
+  <img width="220" src="https://github.com/user-attachments/assets/c595b6ee-568a-4ead-879d-48b9fcada612" />
+  <img width="220" src="https://github.com/user-attachments/assets/4cfdea2c-ed26-47db-b786-33aae47caabf" />
+  <img width="220" src="https://github.com/user-attachments/assets/efaba73f-6d43-4727-9b7a-ec343e3d41f5" />
 </div>
 
 ---
@@ -76,8 +75,8 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## ❤️ Favorite
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/5053c64a-5019-4e08-a15d-972f70530a90" />
-  <img width="220" src="https://github.com/user-attachments/assets/a9cf1a57-2745-4bb3-8a7c-1f86defdbdb8" />  
+  <img width="220" src="https://github.com/user-attachments/assets/d77cf33a-eb39-48f8-819a-28abf655ed52" />
+  <img width="220" src="https://github.com/user-attachments/assets/79ab72e9-ab7d-4527-9620-67327a829799" />
 </div>
 
 ---
@@ -85,13 +84,13 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 🛒 Cart
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/55f124fa-0057-4a50-bdba-41a1bd8600fd" />
-  <img width="220" src="https://github.com/user-attachments/assets/f3bd4e6e-644a-4f26-8461-379b31aea98f" />
-  <img width="220" src="https://github.com/user-attachments/assets/172a95c1-3b95-47e6-8eea-521319a69e8b" />
-  <img width="220" src="https://github.com/user-attachments/assets/8affc116-7900-4f26-8522-20ced44b5e12" />
-  <img width="220" src="https://github.com/user-attachments/assets/fc7e44d3-4feb-40d5-ab09-7a11f0534cc7" />
-  <img width="220" src="https://github.com/user-attachments/assets/e32dee3d-2093-4f4b-b1ff-ec6829dae35d" />
-  <img width="220" src="https://github.com/user-attachments/assets/ed87201f-178b-4ecc-9094-d0ae90eb6607" />  
+  <img width="220" src="https://github.com/user-attachments/assets/cf69b82e-d9c7-484e-ab5d-deceeba13f46" />
+  <img width="220" src="https://github.com/user-attachments/assets/b181f027-4ffe-4815-b5ba-c1373251e9dc" />
+  <img width="220" src="https://github.com/user-attachments/assets/910a0edc-e2ee-4f22-a43d-bf942477b318" />
+  <img width="220" src="https://github.com/user-attachments/assets/f8d5dad4-0f48-4a5d-a61d-90ff30d5caf6" />
+  <img width="220" src="https://github.com/user-attachments/assets/eb859a2c-d5e0-4550-bacd-870b2f73ad48" />
+  <img width="220" src="https://github.com/user-attachments/assets/1c9382de-8159-41c8-88aa-15832fde88c2" />
+  <img width="220" src="https://github.com/user-attachments/assets/219b3ba6-e64c-4171-bfff-186136785073" />
 </div>
 
 ---
@@ -99,9 +98,9 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 📦 Orders
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/1f3a5bb6-a375-4a99-8cde-aec80a59ced7" />
-  <img width="220" src="https://github.com/user-attachments/assets/6686d22b-9236-438d-b7f3-c4cc79ba86ea" />
-  <img width="220" src="https://github.com/user-attachments/assets/286b50d3-033c-417c-ae75-519cf2a0c356" /> 
+  <img width="220" src="https://github.com/user-attachments/assets/87f3760d-c421-4a15-b0a7-4382ea96c65d" />
+  <img width="220" src="https://github.com/user-attachments/assets/9da9d946-9f45-4f9e-ad48-0316b244e902" />
+  <img width="220" src="https://github.com/user-attachments/assets/9c461668-d746-40a7-b14f-6687d183ba7b" />
 </div>
 
 ---
@@ -109,14 +108,14 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 👤 Profile
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/59925378-ace8-443b-93b6-477425d0c6b3" />
-  <img width="220" src="https://github.com/user-attachments/assets/c9e4216a-6fe3-4dee-bc87-6f2d4026f63a" />
-  <img width="220" src="https://github.com/user-attachments/assets/387327bf-70e1-4f4b-9522-8c0218833f49" />
-  <img width="220" src="https://github.com/user-attachments/assets/fc7e44d3-4feb-40d5-ab09-7a11f0534cc7" />
-  <img width="220" src="https://github.com/user-attachments/assets/306c7038-0488-4635-a60f-538d88274d0c" />
-  <img width="220" src="https://github.com/user-attachments/assets/8affc116-7900-4f26-8522-20ced44b5e12" />
-  <img width="220" src="https://github.com/user-attachments/assets/b4aec03e-c687-422a-a513-4e379df61f32" />
-  <img width="220" src="https://github.com/user-attachments/assets/f1fb69e4-997b-4379-8e98-e010b87cbadd" />
+  <img width="220" src="https://github.com/user-attachments/assets/621eb4be-4b4d-42ee-a3e3-fd41a2c2b3e7" />
+  <img width="220" src="https://github.com/user-attachments/assets/58877def-52f0-4452-a6fa-278269f8464a" />
+  <img width="220" src="https://github.com/user-attachments/assets/67a2900d-6a9f-4d4f-81a4-e67b0750c181" />
+  <img width="220" src="https://github.com/user-attachments/assets/f8d5dad4-0f48-4a5d-a61d-90ff30d5caf6" />
+  <img width="220" src="https://github.com/user-attachments/assets/5f7f944d-7be0-40a7-8341-9b5828dd633e" />
+  <img width="220" src="https://github.com/user-attachments/assets/eb859a2c-d5e0-4550-bacd-870b2f73ad48" />
+  <img width="220" src="https://github.com/user-attachments/assets/d37663cb-8f10-49a7-83f2-434e5038f886" />
+  <img width="220" src="https://github.com/user-attachments/assets/f02ba8c4-827f-4ef3-9034-15f47d344524" />
 </div>
 
 ---
@@ -124,20 +123,20 @@ A mobile shopping app showcasing a smooth and complete user experience, with mai
 ## 🔐 Auth
 
 <div align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/18dc3cea-1626-4fb5-b240-6bc8737446ca" />
-  <img width="220" src="https://github.com/user-attachments/assets/647a6baa-e27f-44d0-880d-0d7369009b3b" />
-  <img width="220" src="https://github.com/user-attachments/assets/0e1cfe0a-8484-452a-a930-ff288e758018" />
-  <img width="220" src="https://github.com/user-attachments/assets/3a40f20f-2fa8-4d52-bc19-dc924e8bb11b" />
-  <img width="220" src="https://github.com/user-attachments/assets/d653dbba-9351-468b-8c92-a147eb3e757c" />
-  <img width="220" src="https://github.com/user-attachments/assets/e86ac308-7371-4836-8a0e-03ed1d98349a" />
-  <img width="220" src="https://github.com/user-attachments/assets/d0dd3d1f-2a59-4d7f-9b40-351a3ead2275" />
+  <img width="220" src="https://github.com/user-attachments/assets/dbbca0f4-d930-4521-b369-c7601dd91bbf" />
+  <img width="220" src="https://github.com/user-attachments/assets/118f9bba-ea31-4095-a11e-58b2c23ac2ac" />
+  <img width="220" src="https://github.com/user-attachments/assets/6b2cb788-76f4-46b5-aa09-993604ee074f" />
+  <img width="220" src="https://github.com/user-attachments/assets/fc3553f6-2b1f-41cd-9d31-75b6a7ef95bc" />
+  <img width="220" src="https://github.com/user-attachments/assets/0d3aae25-9873-4b3d-b842-21e89ae744ea" />
+  <img width="220" src="https://github.com/user-attachments/assets/69db607f-1e41-48c6-8a6d-b0df16e7e62f" />
+  <img width="220" src="https://github.com/user-attachments/assets/e9ac7cd7-32f3-4576-9dbc-bcc2cca46dcd" />
 </div>
 
 ---
 
 ## 🔒 Disclaimer
 
-This is a **private project**, and all contents (code, designs, and assets) are protected by copyright.  
+This is a **private project**, and all contents (code, designs, and assets) are protected by copyright.
 Unauthorized use, copying, or redistribution is strictly prohibited.
 
 ---
